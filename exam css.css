@@ -1,0 +1,9 @@
+body{background-color:rgb(255, 255, 255) 
+}  
+ img{height: auto;;max-width: 99%; min-width: auto ;min-height: auto; }   
+ h1{color: violet;}  
+ footer{background-color: rgb(6, 22, 22);}  
+ .bg-primary { background-color: #007BFF; display: flex; padding-left: 10%; padding-right: 10%; }
+ .bg-primary img { display: block; margin: auto; }
+ 
+  
